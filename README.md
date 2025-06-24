@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hi there, I'm Rishi 👋
 
 SWE Intern at Dropbox<br>
 Undergraduate at Duke University 😈💙<br>
